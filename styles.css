@@ -1,0 +1,17 @@
+.bloco{
+    text-align: left;
+    color: black;
+    background-color: lightgray;
+    border: 12px solid black;
+    font-size: large;
+    width: 300px;
+    height: 90px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
